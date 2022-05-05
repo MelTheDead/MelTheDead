@@ -1,3 +1,7 @@
+<p align="center">
+     <a href="https://yumahisai.cf"><img height="100em" src="https://yumahisai.cf/other/yuma.svg"/></a>
+</p>
+
 ![GitHub stars](https://img.shields.io/github/stars/MelTheDead?logo=github&style=social)
 
 <section id='stats'>
