@@ -1,4 +1,4 @@
-[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+Jaeferness;i+program+in+pmmp+and+Java.;do+you+know+me+?%3F%3F%3F)](https://github.com/MelTheDead)
+[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+jaegerness;i+program+in+pmmp+and+Java.;do+you+know+me+?%3F%3F%3F)](https://github.com/MelTheDead)
 
 <p align="center">
      <a href="https://yumahisai.cf"><img height="100em" src="https://yumahisai.cf/other/yuma.svg"/></a>
@@ -14,4 +14,4 @@
 ### Coding Tools:
 <img align="left" alt="PHPStorm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png" />
 <img align="left" alt="SublimeText" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />
-<img align="left" alt="IntelliJ" width="26px" src="[https://www.sublimehq.com/images/sublime_text.png](https://www.bing.com/search?q=intellij+idea&filters=dtbk:%22MCFvdmVydmlldyFvdmVydmlldyE0MzljNjIzZC1lZGNiLWNiM2ItZTIwZS05NjEzMDRjOTFhOTQ%3d%22+sid:%22439c623d-edcb-cb3b-e20e-961304c91a94%22+tphint:%22f%22&FORM=DEPNAV)" />
+<img align="left" alt="Intellij" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_alt_macos_bigsur_icon_190060.png" />
