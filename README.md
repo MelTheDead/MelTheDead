@@ -4,6 +4,9 @@
 <img align="left" alt="Intellij" width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />
 
 
+### [JaegerDevelopment Community](https://discord.gg/znqrsKSR2d)
+<a href="https://discord.gg/gggddd2WDt"><img src="https://discord.com/api/guilds/874579837518483476/widget.png?style=banner2"></a>
+
 
 [![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+jaegerness;i+program+in+pmmp+and+Java.;do+you+know+me+?%3F%3F%3F)](https://github.com/MelTheDead)
 
